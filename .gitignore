@@ -1,0 +1,54 @@
+﻿# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Temp
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Build directories
+build/
+dist/
+out/
+bin/
+gen/
+        
+# Node modules
+node_modules/
+        
+# Gradle
+.gradle/
+        
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+.fvm/
+        
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+        
+# Java
+*.class
